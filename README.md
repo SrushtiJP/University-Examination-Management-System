@@ -75,9 +75,9 @@ The database is normalized up to **Third Normal Form (3NF)** to reduce redundanc
 ## Project Files
 
 - ER Diagram
-- Database Schema
-- SQL Scripts
-- Documentation
+- Excel Sheet
+- Readme
+  
 
 ---
 
