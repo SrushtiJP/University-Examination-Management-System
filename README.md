@@ -81,7 +81,3 @@ The database is normalized up to **Third Normal Form (3NF)** to reduce redundanc
 
 ---
 
-## Author
-
-**Srushti Padvi**  
-B.Tech Information Technology
